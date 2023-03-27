@@ -10,10 +10,11 @@ I'm Joy Agbo a Backend Developer, Freelance Copywriter and SEO Content Writer.
 - ⚡ Fun fact: I love good food.
 
 #### Top Technologies
- [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Express Badge](https://img.shields.io/badge/-Express-61DBFB?style=for-the-badge&labelColor=black&logo=express.js&logoColor=61DBFB)](#) [![MySQL Badge](https://img.shields.io/badge/-MySQl-e535ab?style=for-the-badge&labelColor=black&logo=mysql&logoColor=e535a)](#) [![MongoDB Badge](https://img.shields.io/badge/-MongoDB-3C873A?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=3C873A)](#)
+ [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![MySQL Badge](https://img.shields.io/badge/-MySQl-e535ab?style=for-the-badge&labelColor=black&logo=mysql&logoColor=e535a)](#) [![MongoDB Badge](https://img.shields.io/badge/-MongoDB-3C873A?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=3C873A)](#)
 
  #### Bizness
 [Portfolio](https://www.gitshowcase.com/joyagbo)
+[WritingSamples] ( http://bit.ly/3k9W5n7)
 
  #### Socials
- [![Twitter Badge](https://img.shields.io/badge/-@_JoyAgbo-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_JoyAgbo)](https://twitter.com/_JoyAgbo) [![Linkedin Badge](https://img.shields.io/badge/-Joy-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joy-agbo/)
+ [![Twitter Badge](https://img.shields.io/badge/-Twittwe-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_JoyAgbo)](https://twitter.com/_JoyAgbo) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joy-agbo/)
