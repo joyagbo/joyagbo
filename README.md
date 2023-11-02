@@ -2,9 +2,9 @@
 
 I'm Joy Agbo a Backend Developer, Freelance Copywriter and SEO Content Writer.
 
-- 🔭 I’m currently on working on a NatureDefenders for Girls in Tech Hackathon
+- 🔭 I’m currently working on a website app using Nodejs and Express.
 - :black_nib: I'm currently a Freelancer on [Upwork](https://www.upwork.com/freelancers/~01ba92184d53dc1c43)
-- 🤔 I’m looking to collaborate with other backend developers 
+- 🤔 I’m looking to collaborate with other developers.
 - 📫 How to reach me: joyagbo49@gmail.com.
 - 😄 Pronouns: She/Her.
 - ⚡ Fun fact: I love good food.
