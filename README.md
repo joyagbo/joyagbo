@@ -13,7 +13,7 @@
 <a href="https://linkedin.com/in/joy-agbo"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://twitter.com/psych_dev"><img src="https://img.shields.io/badge/X-@psych__dev-000000?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter" /></a>
 <a href="YOUR_UPWORK_LINK"><img src="https://img.shields.io/badge/Upwork-Hire%20me-14A800?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork" /></a>
-<a href="YOUR_PORTFOLIO_LINK"><img src="https://img.shields.io/badge/Portfolio-Visit-1F6FEB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+<a href="https://www.gitshowcase.com/joyagbo"><img src="https://img.shields.io/badge/Portfolio-Visit-1F6FEB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
 
 </div>
 
