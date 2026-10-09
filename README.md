@@ -9,19 +9,18 @@
 
 <br/>
 
-<a href="mailto:joyagbo49@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://linkedin.com/in/joy-agbo"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://twitter.com/psych_dev"><img src="https://img.shields.io/badge/X-@psych__dev-000000?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter" /></a>
-<a href="YOUR_UPWORK_LINK"><img src="https://img.shields.io/badge/Upwork-Hire%20me-14A800?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork" /></a>
-<a href="https://www.gitshowcase.com/joyagbo"><img src="https://img.shields.io/badge/Portfolio-Visit-1F6FEB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-
+<a href="mailto:joyagbo49@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://linkedin.com/in/joy-agbo"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://twitter.com/psych_dev"><img src="https://img.shields.io/badge/Follow-000000?style=for-the-badge&logo=x&logoColor=white" alt="Follow on X" /></a>
+<a href="https://www.upwork.com/freelancers/~01ba92184d53dc1c43"><img src="https://img.shields.io/badge/Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork" /></a>
+<a href="YOUR_PORTFOLIO_LINK"><img src="https://img.shields.io/badge/Portfolio-1F6FEB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
 </div>
 
 ---
 
 ## 🌟 About Me
 
-I'm **Joy Agbo**, a backend developer from Nigeria 🇳🇬 who loves turning messy problems into clean, dependable systems. I build APIs, automate workflows, and care a lot about writing code that other developers enjoy working with.
+I'm **Joy Agbo**, a backend developer who loves turning messy problems into clean, dependable systems. I build APIs, automate workflows, and care a lot about writing code that other developers enjoy working with.
 
 - 🔭 Currently building a **fintech app**
 - 💼 Freelancing on **Upwork**, open to new projects
@@ -37,34 +36,10 @@ I'm **Joy Agbo**, a backend developer from Nigeria 🇳🇬 who loves turning me
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,js,mysql,mongodb,git,github,postman&theme=dark" alt="Tech stack icons" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,js,mysql,mongodb,postgresql,firebase,git,github,postman&theme=dark" alt="Tech stack icons" />
 
 </div>
 
----
-
-## 📌 Featured Project
-
-<div align="center">
-
-<a href="https://github.com/joyagbo/taskify-backend">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=joyagbo&repo=taskify-backend&theme=github_dark&hide_border=true" alt="taskify-backend" />
-</a>
-
-</div>
-
-**Taskify Backend** is a RESTful API for managing personal and team tasks, with user authentication and role-based access control. Built with Node.js, Express, and MongoDB.
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=joyagbo&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="Joy's GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joyagbo&layout=compact&theme=github_dark&hide_border=true" alt="Top languages" />
-
-</div>
 
 ---
 
